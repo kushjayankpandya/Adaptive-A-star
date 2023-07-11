@@ -122,7 +122,7 @@ blockage, it will expand the cell with the same minimum f-values, which
 could have positions from the blockage to the endpoint.
 
 <figure>
-<img src="Expanded cells by forward and backward.png" id="figs/figure-3" style="width:16cm" alt=" The effects of the tie resolution with higher-G priority(left) and lower-G priority(right) on the number of expanded cells." /><figcaption aria-hidden="true"> The effects of the tie resolution with higher-G priority(left) and lower-G priority(right) on the number of expanded cells.</figcaption>
+<img src="figs/Expanded cells by forward and backward.png" id="figs/figure-3" style="width:16cm" alt=" The effects of the tie resolution with higher-G priority(left) and lower-G priority(right) on the number of expanded cells." /><figcaption aria-hidden="true"> The effects of the tie resolution with higher-G priority(left) and lower-G priority(right) on the number of expanded cells.</figcaption>
 </figure>
 
 # Part 3 - Heuristics in the Adaptive A\*
