@@ -1,21 +1,27 @@
-MIT License
+# Dark Humor License (DHL) v2.0
 
-Copyright (c) 2023
+This software is licensed under the Dark Humor License (DHL), version 2.0.
 
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
+## Preamble
 
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
+Life is a series of moments, both light and dark. This license injects a touch of dark humor into the realm of coding, acknowledging the complexities and absurdities of our digital journeys.
 
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE.
+## License Terms
+
+1. **Gallows Humor Acknowledgment**: Users of this codebase understand and acknowledge that programming can sometimes feel like a dance with the grim reaper. When encountering a particularly frustrating bug or issue, developers are encouraged to crack a dark joke about the code's potential to usher them to the great debugging room in the sky.
+
+2. **Error Haikus**: Every critical error message must be accompanied by a melancholic haiku that reflects the emotional turmoil caused by the malfunctioning code. These haikus should be solemn and poetic, serving as a reminder of the fragile nature of our digital creations.
+
+3. **Commit Epitaphs**: Upon the end of a project, the final commit message should read like an epitaph for the code that has reached its demise. Developers are encouraged to reflect on the code's struggles, triumphs, and untimely demise, using morbid humor to commemorate its journey.
+
+4. **Sarcastic Documentation**: The documentation should be sprinkled with sarcastic remarks, cautionary tales of unexpected behavior, and subtle hints that navigating the code is akin to navigating a minefield. Users are advised to keep their wits sharp and their expectations low.
+
+## Disclaimer
+
+While this license allows for dark humor, it does not negate the importance of crafting functional and reliable code. Dark humor should be an accessory, not a replacement for quality programming.
+
+## Conclusion
+
+By engaging with the code in this repository, you accept the terms of the Dark Humor License (DHL) v2.0. May the gallows humor guide you through the shadows of coding, reminding you that even in the darkest moments, a macabre chuckle can provide an odd sense of solace.
+
+*Please note that dark humor can be sensitive and potentially offensive. Exercise discretion and respect when implementing it in any context.* 🖤😅🕷️
